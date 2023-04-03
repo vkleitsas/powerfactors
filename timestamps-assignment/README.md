@@ -2,11 +2,11 @@
 
 ### How to deploy
 
-From root directory execute make run
+From timestamps-assignment directory execute make run
 
 ### How to run tests
 
-From root directory execute make test
+From timestamps-assignment directory execute make test
 
 ## Sample requests
 
